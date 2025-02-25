@@ -1,0 +1,177 @@
+{
+  "locale.en": "English",
+  "locale.tr": "Turkish",
+  "locale.ar": "Arabic",
+  "locale.dir": "ltr",
+  "site": {
+    "name": "HanHolding"
+  },
+  "themes": {
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "media": {
+    "follow": "Follow Us"
+  },
+  "global": {
+    "needHelp": "Need help?",
+    "slogan": "Han Holding: Ticaretin ve Sanayinin Güvencesi"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Home",
+        "description": "Home page"
+      },
+      "link": "Home"
+    },
+    "corporate": {
+      "meta": {
+        "title": "Corporate",
+        "description": "Corporate"
+      },
+      "link": "Corporate",
+      "pages": {
+        "about": {
+          "meta": {
+            "title": "About",
+            "description": "About"
+          },
+          "link": "About"
+        },
+        "vision_mission": {
+          "meta": {
+            "title": "Vision & Mission",
+            "description": "Vision & Mission"
+          },
+          "link": "Vision & Mission"
+        },
+        "values": {
+          "meta": {
+            "title": "Values",
+            "description": "Values"
+          },
+          "link": "Values"
+        }
+      }
+    },
+
+    "services": {
+      "meta": {
+        "title": "Service",
+        "description": "Service"
+      },
+      "link": "Services",
+      "pages": {
+        "construction": {
+          "meta": {
+            "title": "Construction",
+            "description": "Construction"
+          },
+          "link": "Construction"
+        },
+        "logistics": {
+          "meta": {
+            "title": "Logistics",
+            "description": "Logistics"
+          },
+          "link": "Logistics"
+        },
+        "defense_industry": {
+          "meta": {
+            "title": "Defense Industry",
+            "description": "Defense Industry"
+          },
+          "link": "Defense Industry"
+        },
+        "energy": {
+          "meta": {
+            "title": "Energy",
+            "description": "Energy"
+          },
+          "link": "Energy"
+        },
+        "tourism": {
+          "meta": {
+            "title": "Tourism",
+            "description": "Tourism"
+          },
+          "link": "Tourism"
+        },
+        "mining": {
+          "meta": {
+            "title": "Mining",
+            "description": "Mining"
+          },
+          "link": "Mining"
+        },
+        "food_agriculture_and_animal_husbandry": {
+          "meta": {
+            "title": "Food, Agriculture and Animal Husbandry",
+            "description": "Food, Agriculture and Animal Husbandry"
+          },
+          "link": "Food, Agriculture and Animal Husbandry"
+        },
+        "chemistry": {
+          "meta": {
+            "title": "Chemistry",
+            "description": "Chemistry"
+          },
+          "link": "Chemistry"
+        },
+        "national_international_trade": {
+          "meta": {
+            "title": "National/International Trade",
+            "description": "National/International Trade"
+          },
+          "link": "National/International Trade"
+        }
+      }
+    },
+    "media": {
+      "meta": {
+        "title": "Media",
+        "description": "Media"
+      },
+      "link": "Another",
+      "pages": {
+        "in_press": {
+          "meta": {
+            "title": "We in the press",
+            "description": "We in the press"
+          },
+          "link": "We in the press"
+        },
+        "news": {
+          "meta": {
+            "title": "News",
+            "description": "News"
+          },
+          "link": "News"
+        },
+        "events": {
+          "meta": {
+            "title": "Events",
+            "description": "Events"
+          },
+          "link": "Events"
+        },
+        "gallery": {
+          "meta": {
+            "title": "Gallery",
+            "description": "Gallery"
+          },
+          "link": "Gallery"
+        }
+      }
+    },
+    "contact": {
+      "meta": {
+        "title": "Contact us",
+        "description": "Contact us"
+      },
+      "link": "Contact us"
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "locale.en": "İngilizce",
+  "locale.tr": "Türkçe",
+  "locale.ar": "Arapça",
+  "locale.dir": "ltr",
+  "site": {
+    "name": "HanHolding"
+  },
+  "themes": {
+    "system": "Sistem",
+    "light": "Açık",
+    "dark": "Koyu"
+  },
+  "media": {
+    "follow": "Bizi takip edin"
+  },
+  "home": {
+    "subtitle": "Geleceği Şekillendirme",
+    "title1": "İşletmenizin",
+    "title2": "Büyüme & Gelirini",
+    "title3": "bir sonraki",
+    "title4": "Seviyeye",
+    "text": "Han Holding'de, inşaat, lojistik, savunma sanayisi, enerji ve daha fazlası gibi alanlarda yenilikçi çözümlerle sürdürülebilir büyümeyi liderlik ediyoruz.",
+    "button": "Daha Fazla Öğren",
+    "video": "Bizi Tanıyın"
+  },
+  "global": {
+    "needHelp": "Bizi arayın",
+    "slogan": "Han Holding: Ticaretin ve Sanayinin Güvencesi",
+    "copyright": "© Han Holding 2025 | Tüm hakları saklıdır"
+  },
+  "pages": {
+    "index": {
+      "meta": {
+        "title": "Ana Sayfa",
+        "description": "Ana sayfa"
+      },
+      "link": "Ana Sayfa"
+    },
+    "corporate": {
+      "meta": {
+        "title": "Kurumsal",
+        "description": "Kurumsal"
+      },
+      "link": "Kurumsal",
+      "pages": {
+        "about": {
+          "meta": {
+            "title": "Hakkımızda",
+            "description": "Hakkımızda"
+          },
+          "link": "Hakkımızda"
+        },
+        "vision_mission": {
+          "meta": {
+            "title": "Vizyon & Misyon",
+            "description": "Vizyon & Misyon"
+          },
+          "link": "Vizyon & Misyon"
+        },
+        "values": {
+          "meta": {
+            "title": "Değerlerimiz",
+            "description": "Değerlerimiz"
+          },
+          "link": "Değerlerimiz"
+        }
+      }
+    },
+
+    "services": {
+      "meta": {
+        "title": "Hizmet",
+        "description": "Hizmet"
+      },
+      "link": "Hizmetler",
+      "pages": {
+        "construction": {
+          "meta": {
+            "title": "İnşaat",
+            "description": "İnşaat"
+          },
+          "link": "İnşaat"
+        },
+        "logistics": {
+          "meta": {
+            "title": "Lojistik",
+            "description": "Lojistik"
+          },
+          "link": "Lojistik"
+        },
+        "defense_industry": {
+          "meta": {
+            "title": "Savunma Sanayi",
+            "description": "Savunma Sanayi"
+          },
+          "link": "Savunma Sanayi"
+        },
+        "energy": {
+          "meta": {
+            "title": "Enerji",
+            "description": "Enerji"
+          },
+          "link": "Enerji"
+        },
+        "tourism": {
+          "meta": {
+            "title": "Turizm",
+            "description": "Turizm"
+          },
+          "link": "Turizm"
+        },
+        "mining": {
+          "meta": {
+            "title": "Madencilik",
+            "description": "Madencilik"
+          },
+          "link": "Madencilik"
+        },
+        "food_agriculture_and_animal_husbandry": {
+          "meta": {
+            "title": "Gıda, Tarım ve Hayvancılık",
+            "description": "Gıda, Tarım ve Hayvancılık"
+          },
+          "link": "Gıda, Tarım ve Hayvancılık"
+        },
+        "chemistry": {
+          "meta": {
+            "title": "Kimya",
+            "description": "Kimya"
+          },
+          "link": "Kimya"
+        },
+        "national_international_trade": {
+          "meta": {
+            "title": "Ulusal/Uluslararası Ticaret",
+            "description": "Ulusal/Uluslararası Ticaret"
+          },
+          "link": "Ulusal/Uluslararası Ticaret"
+        }
+      }
+    },
+    "media": {
+      "meta": {
+        "title": "Medya",
+        "description": "Medya"
+      },
+      "link": "Media",
+      "pages": {
+        "in_press": {
+          "meta": {
+            "title": "Basında Biz",
+            "description": "Basında Biz"
+          },
+          "link": "Basında Biz"
+        },
+        "news": {
+          "meta": {
+            "title": "Haberler",
+            "description": "Haberler"
+          },
+          "link": "Haberler"
+        },
+        "events": {
+          "meta": {
+            "title": "Etkinlikler",
+            "description": "Etkinlikler"
+          },
+          "link": "Etkinlikler"
+        },
+        "gallery": {
+          "meta": {
+            "title": "Galeri",
+            "description": "Galeri"
+          },
+          "link": "Galeri"
+        }
+      }
+    },
+    "contact": {
+      "meta": {
+        "title": "Bize ulaşın",
+        "description": "Bize ulaşın"
+      },
+      "link": "Bize ulaşın"
+    }
+  }
+}
