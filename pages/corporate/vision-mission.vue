@@ -57,7 +57,7 @@ useSeoMeta({
               <div class="custom-sm:w-1/2">
                 <div class="single-about-inner">
                   <div class="thumb mb-[16px]">
-                    <img src="/images/icon/2.png" alt="img" />
+                    <img src="/img/icon/2.png" alt="img" />
                   </div>
                   <div class="details">
                     <h5>
@@ -72,7 +72,7 @@ useSeoMeta({
               <div class="custom-sm:w-1/2">
                 <div class="single-about-inner">
                   <div class="thumb mb-[16px]">
-                    <img src="/images/icon/3.png" alt="img" />
+                    <img src="/img/icon/3.png" alt="img" />
                   </div>
                   <div class="details">
                     <h5>{{ t("pages.corporate.pages.vision-mission.content.global_title") }}</h5>
