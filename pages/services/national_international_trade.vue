@@ -14,7 +14,7 @@ const services = [
   "national_international_trade",
 ];
 
-const sevice = "construction";
+const sevice = "national_international_trade";
 const basekey = `pages.services.pages.${sevice}`;
 
 useHead({
@@ -50,6 +50,7 @@ useSeoMeta({
       </div>
     </div>
   </div>
+
   <div class="about-area pd-top-120 pb-[120px]">
     <div class="container">
       <div class="row">

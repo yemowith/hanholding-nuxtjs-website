@@ -38,7 +38,6 @@ useSeoMeta({
       </div>
     </div>
   </div>
-
   <div class="about-area pd-top-120 pb-[120px]">
     <div class="container">
       <div class="row">

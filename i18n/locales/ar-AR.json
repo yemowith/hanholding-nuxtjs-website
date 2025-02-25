@@ -1,317 +1,317 @@
 {
-  "locale.en": "English",
-  "locale.tr": "Turkish",
-  "locale.ar": "Arabic",
+  "locale.en": "İngilizce",
+  "locale.tr": "Türkçe",
+  "locale.ar": "Arapça",
   "locale.dir": "ltr",
   "site": {
     "name": "Han Holding",
-    "description": "Han Holding: The Guarantee of Trade and Industry."
+    "description": "Han Holding: Ticaret ve Sanayinin Garantisi."
   },
   "themes": {
-    "system": "System",
-    "light": "Light",
-    "dark": "Dark"
+    "system": "Sistem",
+    "light": "Açık",
+    "dark": "Koyu"
   },
   "media": {
-    "follow": "Follow Us"
+    "follow": "Bizi Takip Edin"
   },
   "home": {
-    "subtitle": "Shaping the Future",
-    "title1": "Taking Your",
-    "title2": "Business Growth & Revenue",
-    "title3": "to the",
-    "title4": "Next Level",
-    "text": "At Han Holding, we lead sustainable growth with innovative solutions in construction, logistics, defense industry, energy, and more.",
-    "button": "Learn More",
-    "video": "Get to Know Us",
-    "partners": "Our partners",
-    "services": "Our Services",
-    "slogan": "Shaping the Future with  Innovative Solutions",
+    "subtitle": "Geleceği Şekillendirme",
+    "title1": "İşinizi",
+    "title2": "Büyüme ve Gelirinizi",
+    "title3": "Bir Sonraki Seviyeye",
+    "title4": "Taşıma",
+    "text": "Han Holding olarak, inşaat, lojistik, savunma sanayi, enerji ve daha fazlasında yenilikçi çözümlerle sürdürülebilir büyümeyi öncülüyoruz.",
+    "button": "Daha Fazla Bilgi Al",
+    "video": "Bizi Tanıyın",
+    "partners": "Ortaklarımız",
+    "services": "Hizmetlerimiz",
+    "slogan": "Yenilikçi Çözümlerle Geleceği Şekillendirme",
 
     "about": {
-      "subtitle": "ABOUT US",
-      "title": "Advancing Beyond Your Expectations",
-      "description": "At Han Holding, we are committed to delivering innovative solutions that exceed your expectations. Our expertise spans across multiple industries, ensuring excellence in every project we undertake.",
-      "list_item_1": "Innovative and sustainable solutions",
-      "list_item_2": "Expertise across multiple industries",
-      "list_item_3": "Customer-focused approach",
-      "list_item_4": "Global reach with local expertise",
-      "additional_description": "We prioritize security, efficiency, and sustainability in all our operations. Partner with us to experience unparalleled service and results.",
-      "button_text": "Discover More"
+      "subtitle": "HAKKIMIZDA",
+      "title": "Beklentilerinizin Ötesine Geçme",
+      "description": "Han Holding olarak, beklentilerinizi aşan yenilikçi çözümler sunmaya kararlıyız. Uzmanlığımız, inşaat, lojistik, savunma sanayi, enerji ve daha fazlasında, üstün kalitede hizmet sunmamızı sağlıyor.",
+      "list_item_1": "Yenilikçi ve sürdürülebilir çözümler",
+      "list_item_2": "Çoklu sektörde uzmanlık",
+      "list_item_3": "Müşteri odaklı yaklaşım",
+      "list_item_4": "Yerel uzmanlıkla küresel erişim",
+      "additional_description": "Tüm operasyonlarımızda güvenliği, verimliliği ve sürdürülebilirliği önceliklendiriyoruz. Bizimle ortaklık kurun, eşsiz hizmet ve sonuçlarla tanışın.",
+      "button_text": "Daha Fazlasını Keşfedin"
     }
   },
   "global": {
-    "needHelp": "Need help?",
-    "slogan": "Han Holding: The Guarantee of Trade and Industry.",
-    "business_sectors": "Business Sectors",
-    "copyright": " All Rights Reserved",
-    "newsletter": "Subscribe To Our Newsletter",
-    "newsletter_placeholder": "Enter your email address",
-    "newsletter_button": "Subscribe",
-    "newsletter_success": "You have successfully subscribed to our newsletter.",
-    "newsletter_error": "An error occurred while subscribing to our newsletter.",
-    "read_more": "Read more",
-    "no_data": "There are no data"
+    "needHelp": "Yardıma mı ihtiyacınız var?",
+    "slogan": "Han Holding: Ticaret ve Sanayinin Garantisi.",
+    "business_sectors": "İş Sektörleri",
+    "copyright": " Tüm Hakları Saklıdır",
+    "newsletter": "Bültenimize Abone Olun",
+    "newsletter_placeholder": "E-posta adresinizi girin",
+    "newsletter_button": "Abone Ol",
+    "newsletter_success": "Bültenimize başarıyla abone oldunuz.",
+    "newsletter_error": "Bültenimize abone olurken bir hata oluştu.",
+    "read_more": "Daha Fazla Oku",
+    "no_data": "Veri bulunamadı"
   },
   "pages": {
     "index": {
       "meta": {
-        "title": "Home",
-        "description": "Home page"
+        "title": "Ana Sayfa",
+        "description": "Ana sayfa"
       },
-      "link": "Home"
+      "link": "Ana Sayfa"
     },
     "corporate": {
       "meta": {
-        "title": "Corporate",
-        "description": "Corporate"
+        "title": "Kurumsal",
+        "description": "Kurumsal"
       },
-      "link": "Corporate",
+      "link": "Kurumsal",
       "pages": {
         "about": {
           "meta": {
-            "title": "About",
-            "description": "About"
+            "title": "Hakkımızda",
+            "description": "Hakkımızda"
           },
-          "link": "About",
+          "link": "Hakkımızda",
           "content": {
-            "subtitle": "ABOUT US",
-            "title": "Han Holding: Driving Innovation and Global Development",
-            "description": "Han Holding is a globally recognized investment and business conglomerate, specializing in diverse industries including construction, logistics, defense, energy, tourism, mining, agriculture, food, chemistry, and international trade. Our expertise drives economic growth, fosters innovation, and ensures sustainable progress worldwide.",
-            "commitment_title": "Commitment to Excellence",
-            "commitment_description": "Han Holding prioritizes quality, innovation, and sustainability in all projects. Our approach ensures high standards in engineering, logistics, and economic development.",
-            "global_title": "Global Influence",
-            "global_description": "With operations across multiple continents, we leverage cutting-edge technology and strategic investments to create lasting economic impact in every industry we serve."
+            "subtitle": "HAKKIMIZDA",
+            "title": "Han Holding: Yenilik ve Küresel Gelişmeyi Sürdürme",
+            "description": "Han Holding, inşaat, lojistik, savunma sanayi, enerji, turizm, madencilik, tarım, gıda, kimya ve uluslararası ticaret dahil olmak üzere çeşitli sektörlerde uzmanlaşmış, küresel olarak tanınan bir yatırım ve iş konglomerasıdır. Uzmanlığımız, ekonomik büyümeyi teşvik eder, yeniliği besler ve dünya çapında sürdürülebilir ilerlemeyi sağlar.",
+            "commitment_title": "Mükemmellik Taahhüdü",
+            "commitment_description": "Han Holding, tüm projelerinde kalite, yenilik ve sürdürülebilirliği önceliklendirir. Yaklaşımımız, mühendislik, lojistik ve ekonomik gelişmede yüksek standartları sağlar.",
+            "global_title": "Küresel Etki",
+            "global_description": "Çoklu kıtada operasyonlarımızla, her sektörde hizmet ettiğimizde kalıcı ekonomik etki yaratmaya çalışıyoruz."
           }
         },
         "vision-mission": {
           "meta": {
-            "title": "Vision & Mission",
-            "description": "Vision & Mission"
+            "title": "Vizyon & Misyon",
+            "description": "Vizyon & Misyon"
           },
-          "link": "Vision & Mission",
+          "link": "Vizyon & Misyon",
           "content": {
-            "subtitle": "Our Vision & Mission",
-            "title": "Building a Sustainable Future with Innovation",
-            "description": "At Han Holding, we are committed to shaping a future driven by innovation, sustainability, and excellence. Our vision is to become a globally recognized leader in multiple industries by integrating cutting-edge technology and sustainable practices into our core business operations.",
-            "commitment_title": "Commitment to Excellence",
-            "commitment_description": "We uphold the highest standards in every sector we operate in, ensuring quality, transparency, and long-term value for our stakeholders.",
-            "global_title": "Global Expansion & Leadership",
-            "global_description": "With a strong presence in multiple industries, we aim to expand our influence globally, creating innovative solutions that drive economic growth and sustainability."
+            "subtitle": "Vizyon & Misyonumuz",
+            "title": "Yenilik ve Sürdürülebilirlikle Geleceği Şekillendirme",
+            "description": "Han Holding olarak, yenilik, sürdürülebilirlik ve mükemmellikle yönlendirilen bir geleceğe ulaşmaya kararlıyız. Vizyonumuz, çekirdek iş operasyonlarımızın tümünde yenilikçi teknolojileri ve sürdürülebilir uygulamaları entegre ederek, küresel olarak tanınan bir lider haline gelmektir.",
+            "commitment_title": "Mükemmellik Taahhüdü",
+            "commitment_description": "Çalıştığımız her sektörde en yüksek standartları korumaya çalışıyoruz, böylece paydaşlarımız için kalite, şeffaflık ve uzun vadeli değer sunuyoruz.",
+            "global_title": "Küresel Genişleme & Liderlik",
+            "global_description": "Çoklu sektörlerde güçlü bir varlığımızla, yenilikçi çözümler geliştirerek, ekonomik büyümeyi ve sürdürülebilirliği yönlendiriyoruz."
           }
         }
       }
     },
     "services": {
       "meta": {
-        "title": "Service",
-        "description": "Service"
+        "title": "Hizmetler",
+        "description": "Hizmetler"
       },
-      "link": "Services",
+      "link": "Hizmetler",
       "pages": {
         "construction": {
           "meta": {
-            "title": "Construction",
-            "description": "Han Holding delivers innovative and sustainable construction projects, shaping the cities of tomorrow with modern infrastructure and eco-friendly designs."
+            "title": "İnşaat",
+            "description": "Han Holding, yenilikçi ve sürdürülebilir inşaat projeleri sunar, modern altyapı ve çevre dostu tasarımlarla yarının şehirlerini şekillendirir."
           },
-          "link": "Construction",
+          "link": "İnşaat",
           "content": {
-            "subtitle": "OUR EXPERTISE",
-            "title": "Building the Future with Innovation and Sustainability",
-            "description": "At Han Holding, we are redefining the construction industry by delivering state-of-the-art infrastructure projects that combine cutting-edge technology with sustainable practices. Our commitment to quality and innovation ensures that every project we undertake stands as a testament to excellence.",
-            "quality_title": "Uncompromising Quality",
-            "quality_description": "We adhere to the highest standards of construction, ensuring that every structure we build is safe, durable, and built to last. Our team of experts meticulously oversees every phase of the project, from planning to execution.",
-            "sustainability_title": "Sustainable Construction",
-            "sustainability_description": "Sustainability is at the core of our construction philosophy. We utilize eco-friendly materials and energy-efficient technologies to minimize environmental impact while maximizing long-term value for our clients."
+            "subtitle": "UZMANLIĞIMIZ",
+            "title": "Yenilik ve Sürdürülebilirlikle Geleceği İnşa Etme",
+            "description": "Han Holding'de, yenilikçi teknolojiyi sürdürülebilir uygulamalarla birleştirerek, devlet-of-the-art altyapı projeleri sunuyoruz. Kalite ve yenilik taahhüdümüz, her projemizin mükemmelliğe tanıklık etmesini sağlar.",
+            "quality_title": "Katıksız Kalite",
+            "quality_description": "İnşaatın en yüksek standartlarına uyarız, böylece inşa ettiğimiz her yapı güvenli, dayanıklı ve uzun ömürlü olur. Uzman ekibimiz, projenin her aşamasını, planlamadan uygulamaya kadar, titizlikle denetler.",
+            "sustainability_title": "Sürdürülebilir İnşaat",
+            "sustainability_description": "Sürdürülebilirlik, inşaat felsefemizin merkezindedir. Çevre dostu malzemeler ve enerji verimli teknolojileri kullanarak, çevresel etkiyi minimize ederken, müşterilerimiz için uzun vadeli değeri maksimize ederiz."
           }
         },
         "logistics": {
           "meta": {
-            "title": "Logistics",
-            "description": "Han Holding provides fast, reliable, and integrated logistics solutions, optimizing supply chains for businesses worldwide."
+            "title": "Lojistik",
+            "description": "Han Holding, hızlı, güvenilir ve entegre lojistik çözümleri sunar, dünya çapında işletmelerin tedarik zincirlerini optimize eder."
           },
-          "link": "Logistics",
+          "link": "Lojistik",
           "content": {
-            "subtitle": "OUR SERVICES",
-            "title": "Delivering Excellence in Logistics Solutions",
-            "description": "At Han Holding, we provide fast, reliable, and integrated logistics solutions tailored to meet the needs of businesses worldwide. Our advanced technology and efficient processes ensure seamless supply chain management.",
-            "efficiency_title": "Operational Efficiency",
-            "efficiency_description": "We optimize every step of the logistics process to ensure timely delivery and cost-effective solutions. Our team is dedicated to maximizing efficiency and minimizing delays.",
-            "technology_title": "Advanced Technology",
-            "technology_description": "We leverage cutting-edge technology to track, manage, and streamline logistics operations. Our systems provide real-time visibility and control over your supply chain."
+            "subtitle": "HİZMETLERİMİZ",
+            "title": "Lojistik Çözümlerinde Mükemmellik Sağlama",
+            "description": "Han Holding'de, dünya çapında işletmelerin ihtiyaçlarını karşılamak üzere, hızlı, güvenilir ve entegre lojistik çözümleri sunuyoruz. Gelişmiş teknoloji ve verimli süreçlerimiz, sorunsuz tedarik zinciri yönetimini sağlar.",
+            "efficiency_title": "Operasyonel Verimlilik",
+            "efficiency_description": "Lojistik sürecin her adımını, zamanında teslimat ve maliyet-etkin çözümler sağlamak üzere optimize ederiz. Ekibimiz, verimliliği maksimize etmek ve gecikmeleri minimize etmek için çalışır.",
+            "technology_title": "Gelişmiş Teknoloji",
+            "technology_description": "Lojistik operasyonlarını izlemek, yönetmek ve akışkanlaştırmak için gelişmiş teknolojiyi kullanırız. Sistemlerimiz, tedarik zinciriniz üzerinde gerçek zamanlı görünürlük ve kontrol sağlar."
           }
         },
         "defense_industry": {
           "meta": {
-            "title": "Defense Industry",
-            "description": "Han Holding develops cutting-edge defense technologies, contributing to national security and global defense capabilities."
+            "title": "Savunma Sanayi",
+            "description": "Han Holding, savunma teknolojilerinin geliştirilmesine katkı sağlar, ulusal ve küresel savunma kabiliyetlerini artırır."
           },
-          "link": "Defense Industry",
+          "link": "Savunma Sanayi",
           "content": {
-            "subtitle": "OUR EXPERTISE",
-            "title": "Innovating for a Safer Future",
-            "description": "At Han Holding, we are committed to advancing defense technologies that ensure national and global security. Our cutting-edge solutions and strategic partnerships drive innovation in the defense industry.",
-            "innovation_title": "Technological Innovation",
-            "innovation_description": "We invest in research and development to create state-of-the-art defense systems. Our focus is on delivering reliable and advanced solutions that meet the evolving needs of modern warfare.",
-            "security_title": "Enhanced Security",
-            "security_description": "Our defense solutions prioritize safety and security, providing robust protection against emerging threats. We work closely with governments and organizations to safeguard communities worldwide."
+            "subtitle": "UZMANLIĞIMIZ",
+            "title": "Daha Güvenli Bir Gelecek İçin Yenilik Çıkarma",
+            "description": "Han Holding'de, savunma teknolojilerinin geliştirilmesine katkı sağlar, böylece ulusal ve küresel güvenlik sağlar. Gelişmiş çözümlerimiz ve stratejik ortaklıklarımız, savunma sanayisinde yeniliği yönlendirir.",
+            "innovation_title": "Teknolojik Yenilik",
+            "innovation_description": "Araştırma ve geliştirme yatırımları yaparız, böylece modern savaşın gelişen ihtiyaçlarını karşılayan güvenilir ve gelişmiş savunma sistemleri oluştururuz.",
+            "security_title": "Güvenlik Artırımı",
+            "security_description": "Savunma çözümlerimiz, güvenlik ve savunma önceliklidir, böylece gelişen tehditlere karşı sağlam bir koruma sağlar. Hükümetler ve organizasyonlarla yakın çalışırız, dünya çapında toplulukları korumaya yardımcı olur."
           }
         },
         "energy": {
           "meta": {
-            "title": "Energy",
-            "description": "Han Holding focuses on renewable energy sources, driving sustainable energy solutions for a greener future."
+            "title": "Enerji",
+            "description": "Han Holding, yenilenebilir enerji kaynaklarına odaklanır, daha yeşil bir geleceğe yönelik sürdürülebilir enerji çözümleri geliştirir."
           },
-          "link": "Energy",
+          "link": "Enerji",
           "content": {
-            "subtitle": "OUR FOCUS",
-            "title": "Powering the Future with Sustainable Energy",
-            "description": "At Han Holding, we are dedicated to developing innovative energy solutions that promote sustainability and reduce environmental impact. Our projects in renewable energy and energy efficiency are shaping a greener future.",
-            "renewable_title": "Renewable Energy",
-            "renewable_description": "We invest in solar, wind, and hydroelectric power projects to harness clean and renewable energy sources. Our goal is to reduce dependency on fossil fuels and combat climate change.",
-            "efficiency_title": "Energy Efficiency",
-            "efficiency_description": "We design and implement energy-efficient systems that minimize waste and maximize output. Our solutions help businesses and communities reduce their energy consumption and costs."
+            "subtitle": "ODAK NOKTAMIZ",
+            "title": "Sürdürülebilir Enerjiyle Geleceği Güçlendirme",
+            "description": "Han Holding'de, yenilikçi enerji çözümleri geliştirerek, çevre etkisini azaltır ve sürdürülebilirliği artırır. Yenilenebilir enerji ve enerji verimliliği projelerimiz, daha yeşil bir geleceğe şekil verir.",
+            "renewable_title": "Yenilenebilir Enerji",
+            "renewable_description": "Temiz ve yenilenebilir enerji kaynaklarını, güneş, rüzgâr ve hidroelektrik güç projeleriyle harnes ederiz. Amacımız, fosil yakıtlara olan bağımlılığı azaltmak ve iklim değişikliğine karşı mücadele etmektir.",
+            "efficiency_title": "Enerji Verimliliği",
+            "efficiency_description": "Enerji verimli sistemler tasarlar ve uygularız, böylece enerji tüketimini ve maliyetlerini azaltırız. Çözümlerimiz, işletmelerin ve toplulukların enerji tüketimini azaltmaya yardımcı olur."
           }
         },
         "tourism": {
           "meta": {
-            "title": "Tourism",
-            "description": "Han Holding offers luxurious hotels and resorts, creating unforgettable experiences for travelers while promoting cultural and natural heritage."
+            "title": "Turizm",
+            "description": "Han Holding, lüks oteller ve tatil köyleri sunar, seyahat edenler için unutulmaz deneyimler yaratırken, kültürel ve doğal mirası teşvik eder."
           },
-          "link": "Tourism",
+          "link": "Turizm",
           "content": {
-            "subtitle": "OUR VISION",
-            "title": "Creating Unforgettable Travel Experiences",
-            "description": "At Han Holding, we are dedicated to offering exceptional travel experiences that combine luxury, comfort, and cultural richness. Our hotels, resorts, and tourism projects are designed to provide guests with unforgettable memories.",
-            "luxury_title": "Luxury Accommodations",
-            "luxury_description": "We provide world-class luxury accommodations that cater to the needs of discerning travelers. Our properties are designed to offer the ultimate in comfort and elegance.",
-            "culture_title": "Cultural Tourism",
-            "culture_description": "We promote cultural tourism by showcasing the unique heritage and traditions of the regions we operate in. Our projects aim to preserve and celebrate local cultures while offering enriching experiences to visitors."
+            "subtitle": "VİZYONUMUZ",
+            "title": "Unutulmaz Seyahat Deneyimleri Yaratma",
+            "description": "Han Holding'de, lüks, konfor ve kültürel zenginlik birleştirerek, misafirlerimize unutulmaz anılar sunmaya çalışıyoruz. Otellerimiz, tatil köylerimiz ve turizm projelerimiz, misafirlerimize en üst düzeyde konfor ve zarafet sunar.",
+            "luxury_title": "Lüks Konaklama",
+            "luxury_description": "Dünya standartlarında lüks konaklama seçenekleri sunarız, seçkin seyahat edenlerin ihtiyaçlarını karşılar. Mülklerimiz, konfor ve zarafet sunar.",
+            "culture_title": "Kültürel Turizm",
+            "culture_description": "Çalıştığımız bölgelerin benzersiz mirasını sergileyerek, kültürel turizmi teşvik ederiz. Projelerimiz, yerel kültürleri korumaya ve ziyaretçilere zenginleştirici deneyimler sunmaya çalışır."
           }
         },
         "mining": {
           "meta": {
-            "title": "Mining",
-            "description": "Han Holding utilizes efficient and environmentally responsible mining practices to extract and process natural resources."
+            "title": "Madencilik",
+            "description": "Han Holding, verimli ve çevre sorumluluğu taşıyan madencilik uygulamalarını kullanarak, doğal kaynakları çıkarır ve işler."
           },
-          "link": "Mining",
+          "link": "Madencilik",
           "content": {
-            "subtitle": "OUR APPROACH",
-            "title": "Responsible and Innovative Mining Solutions",
-            "description": "At Han Holding, we are committed to sustainable and responsible mining practices. Our projects focus on extracting natural resources efficiently while minimizing environmental impact and ensuring the safety of our workforce.",
-            "responsible_title": "Responsible Mining",
-            "responsible_description": "We prioritize environmental protection and community well-being in all our mining operations. Our practices are designed to ensure long-term sustainability and positive social impact.",
-            "technology_title": "Advanced Technology",
-            "technology_description": "We leverage cutting-edge technology to optimize mining processes, improve safety, and reduce environmental footprint. Our innovative solutions set new standards in the mining industry."
+            "subtitle": "YAKLAŞIMIMIZ",
+            "title": "Sorumlu ve Yenilikçi Madencilik Çözümleri",
+            "description": "Han Holding'de, sürdürülebilir ve sorumlu madencilik uygulamalarına bağlıyız. Projelerimiz, doğal kaynakları verimli bir şekilde çıkarmaya, çevresel etkiyi minimize etmeye ve iş gücümüzün güvenliğini sağlamaya odaklanır.",
+            "responsible_title": "Sorumlu Madencilik",
+            "responsible_description": "Tüm madencilik operasyonlarımızda, çevre koruma ve topluluk refahını önceliklendiririz. Uygulamalarımız, uzun vadeli sürdürülebilirlik ve olumlu sosyal etki sağlar.",
+            "technology_title": "Gelişmiş Teknoloji",
+            "technology_description": "Madencilik süreçlerini optimize etmek, güvenliği artırmak ve çevresel ayak izini azaltmak için gelişmiş teknolojiyi kullanırız. Yenilikçi çözümlerimiz, madencilik endüstrisinde yeni standartlar belirler."
           }
         },
         "food_agriculture_and_animal_husbandry": {
           "meta": {
-            "title": "Food, Agriculture and Animal Husbandry",
-            "description": "Han Holding ensures high-quality and healthy food production through modern agriculture and sustainable farming practices."
+            "title": "Gıda, Tarım ve Hayvancılık",
+            "description": "Han Holding, modern tarım ve sürdürülebilir tarım uygulamaları aracılığıyla, yüksek kaliteli ve sağlıklı gıda üretimini sağlar."
           },
-          "link": "Food and Animal Husbandry",
+          "link": "Gıda ve Hayvancılık",
           "content": {
-            "subtitle": "OUR MISSION",
-            "title": "Sustainable Solutions for Food, Agriculture, and Livestock",
-            "description": "At Han Holding, we are dedicated to advancing sustainable practices in food production, agriculture, and livestock management. Our initiatives ensure food security, promote environmental sustainability, and support rural communities.",
-            "agriculture_title": "Modern Agriculture",
-            "agriculture_description": "We implement innovative agricultural techniques to increase productivity and ensure the quality of crops. Our focus is on sustainable farming practices that protect the environment and support farmers.",
-            "livestock_title": "Livestock Management",
-            "livestock_description": "We prioritize animal welfare and efficient livestock management to produce high-quality, healthy food products. Our practices ensure the well-being of animals and the sustainability of the livestock industry."
+            "subtitle": "MİSYONUMUZ",
+            "title": "Gıda, Tarım ve Hayvancılık için Sürdürülebilir Çözümler",
+            "description": "Han Holding'de, gıda üretiminde, tarım ve hayvancılık yönetiminde sürdürülebilir uygulamaları geliştirmeye çalışıyoruz. Girişimlerimiz, gıda güvenliğini sağlar, çevre sürdürülebilirliğini destekler ve kırsal toplulukları destekler.",
+            "agriculture_title": "Modern Tarım",
+            "agriculture_description": "İnnovatif tarım tekniklerini uygularız, böylece ürün verimini artırmaya ve mahsul kalitesini sağlamaya çalışırız. Odak noktamız, çevre dostu tarım uygulamalarıdır.",
+            "livestock_title": "Hayvancılık Yönetimi",
+            "livestock_description": "Hayvan refahını ve verimli hayvancılık yönetimini önceliklendiririz, böylece yüksek kaliteli, sağlıklı gıda ürünleri üretiriz. Uygulamalarımız, hayvanların refahını ve hayvancılık endüstrisinin sürdürülebilirliğini sağlar."
           }
         },
         "chemistry": {
           "meta": {
-            "title": "Chemistry",
-            "description": "Han Holding innovates in the chemical industry, delivering advanced solutions for pharmaceuticals, cosmetics, and industrial applications."
+            "title": "Kimya",
+            "description": "Han Holding, kimya endüstrisinde yenilik yapar, ilaç, kozmetik ve endüstriyel uygulamalar için gelişmiş çözümler sunar."
           },
-          "link": "Chemistry",
+          "link": "Kimya",
           "content": {
-            "subtitle": "OUR FOCUS",
-            "title": "Innovating for a Sustainable Future in Chemistry",
-            "description": "At Han Holding, we are committed to developing advanced chemical solutions that drive innovation and sustainability. Our products and technologies are designed to meet the evolving needs of industries while minimizing environmental impact.",
-            "innovation_title": "Chemical Innovation",
-            "innovation_description": "We invest in research and development to create cutting-edge chemical products that enhance industrial processes and improve quality of life. Our focus is on delivering solutions that are both effective and environmentally friendly.",
-            "sustainability_title": "Sustainable Practices",
-            "sustainability_description": "We prioritize sustainability in all our chemical processes, from production to disposal. Our goal is to reduce waste, conserve resources, and promote eco-friendly practices across the industry."
+            "subtitle": "ODAK NOKTAMIZ",
+            "title": "Kimyada Sürdürülebilir Gelecek için Yenilik Çıkarma",
+            "description": "Han Holding'de, kimya çözümleri geliştirerek, yenilik ve sürdürülebilirliği yönlendiriyoruz. Ürünlerimiz ve teknolojilerimiz, endüstrilerin gelişen ihtiyaçlarını karşılamak üzere tasarlanmıştır.",
+            "innovation_title": "Kimyasal Yenilik",
+            "innovation_description": "Araştırma ve geliştirme yatırımları yaparız, böylece endüstriyel süreçleri geliştiren ve yaşam kalitesini artıran kimyasal ürünler oluştururuz.",
+            "sustainability_title": "Sürdürülebilir Uygulamalar",
+            "sustainability_description": "Tüm kimyasal süreçlerimizde, sürdürülebilirliği önceliklendiririz, böylece atık azaltılır, kaynaklar korunur ve endüstride çevre dostu uygulamaları teşvik edilir."
           }
         },
         "national_international_trade": {
           "meta": {
-            "title": "National/International Trade",
-            "description": "Han Holding strengthens global trade networks, fostering economic growth through strategic partnerships and innovative trade models."
+            "title": "Ulusal/Uluslararası Ticaret",
+            "description": "Han Holding, küresel ticaret ağlarını güçlendirir, stratejik ortaklıklar ve yenilikçi ticaret modelleri aracılığıyla ekonomik büyümeyi teşvik eder."
           },
-          "link": "National/International Trade",
+          "link": "Ulusal/Uluslararası Ticaret",
           "content": {
-            "subtitle": "OUR VISION",
-            "title": "Driving Growth Through Global Trade",
-            "description": "At Han Holding, we are dedicated to fostering economic growth by facilitating national and international trade. Our strategic partnerships and innovative trade solutions connect markets, create opportunities, and drive sustainable development.",
-            "global_title": "Global Trade Networks",
-            "global_description": "We leverage our extensive global network to connect businesses and markets worldwide. Our expertise in logistics, customs, and trade regulations ensures seamless cross-border transactions.",
-            "strategy_title": "Strategic Trade Solutions",
-            "strategy_description": "We provide tailored trade solutions that help businesses expand their reach and optimize their operations. Our focus is on creating value for our partners through innovative and efficient trade practices."
+            "subtitle": "VİZYONUMUZ",
+            "title": "Küresel Ticaret Yoluyla Büyümeyi Sürdürme",
+            "description": "Han Holding'de, ulusal ve uluslararası ticaret aracılığıyla, ekonomik büyümeyi teşvik etmeye çalışıyoruz. Stratejik ortaklıklarımız ve yenilikçi ticaret çözümlerimiz, pazarları bağlar, fırsatlar yaratır ve sürdürülebilir gelişmeyi yönlendirir.",
+            "global_title": "Küresel Ticaret Ağları",
+            "global_description": "Geniş küresel ağımızı kullanarak, dünya çapında işletmeleri ve pazarları bağlarız. Lojistik, gümrük ve ticaret düzenlemeleri konusundaki uzmanlığımız, sınır ötesi işlemlerin sorunsuz olmasını sağlar.",
+            "strategy_title": "Stratejik Ticaret Çözümleri",
+            "strategy_description": "İşletmelerin ulaşımını genişletmesine ve operasyonlarını optimize etmesine yardımcı olan, özelleştirilmiş ticaret çözümleri sunarız. Odak noktamız, yenilikçi ve verimli ticaret uygulamaları aracılığıyla, ortaklarımız için değer yaratmaktır."
           }
         }
       }
     },
     "media": {
       "meta": {
-        "title": "Media",
-        "description": "Media"
+        "title": "Medya",
+        "description": "Medya"
       },
-      "link": "Media",
+      "link": "Medya",
       "pages": {
         "in_press": {
           "meta": {
-            "title": "We in the press",
-            "description": "We in the press"
+            "title": "Basında Biz",
+            "description": "Basında Biz"
           },
-          "link": "We in the press"
+          "link": "Basında Biz"
         },
         "news": {
           "meta": {
-            "title": "News",
-            "description": "News"
+            "title": "Haberler",
+            "description": "Haberler"
           },
-          "link": "News"
+          "link": "Haberler"
         },
         "events": {
           "meta": {
-            "title": "Events",
-            "description": "Events"
+            "title": "Etkinlikler",
+            "description": "Etkinlikler"
           },
-          "link": "Events"
+          "link": "Etkinlikler"
         },
         "gallery": {
           "meta": {
-            "title": "Gallery",
-            "description": "Gallery"
+            "title": "Galeri",
+            "description": "Galeri"
           },
-          "link": "Gallery"
+          "link": "Galeri"
         }
       }
     },
     "contact": {
       "meta": {
-        "title": "Contact us",
-        "description": "Contact us"
+        "title": "Bize Ulaşın",
+        "description": "Bize Ulaşın"
       },
-      "link": "Contact us",
+      "link": "Bize Ulaşın",
       "content": {
-        "subtitle": "Direct contact us?",
-        "description": "We are here to answer any questions you may have about our services. Reach out to us and we'll respond as soon as we can.",
-        "address": "Address",
-        "phone": "Phone",
+        "subtitle": "Doğrudan Bize Ulaşın?",
+        "description": "Hizmetlerimiz hakkında herhangi bir sorunuz varsa, bize ulaşın ve mümkün olan en kısa sürede yanıt vereceğiz.",
+        "address": "Adres",
+        "phone": "Telefon",
         "email": "Email",
         "form": {
-          "name": "Name",
+          "name": "İsim",
           "email": "Email",
-          "subject": "Subject",
-          "message": "Message",
-          "button": "Send Message",
-          "success": "Your message has been sent successfully.",
-          "error": "An error occurred while sending your message."
+          "subject": "Konu",
+          "message": "Mesaj",
+          "button": "Mesaj Gönder",
+          "success": "Mesajınız başarıyla gönderildi.",
+          "error": "Mesajınızı gönderirken bir hata oluştu."
         }
       }
     },
@@ -324,24 +324,24 @@
       "pages": {
         "terms_condition": {
           "meta": {
-            "title": "Terms & Condition",
-            "description": "Terms & Condition"
+            "title": "Şartlar & Koşullar",
+            "description": "Şartlar & Koşullar"
           },
-          "link": "Terms & Condition"
+          "link": "Şartlar & Koşullar"
         },
         "privacy_policy": {
           "meta": {
-            "title": "Privacy Policy",
-            "description": "Privacy Policy"
+            "title": "Gizlilik Politikası",
+            "description": "Gizlilik Politikası"
           },
-          "link": "Privacy Policy"
+          "link": "Gizlilik Politikası"
         },
         "cookies_policy": {
           "meta": {
-            "title": "Cookies Policy",
-            "description": "Cookies Policy"
+            "title": "Çerez Politikası",
+            "description": "Çerez Politikası"
           },
-          "link": "Cookies Policy"
+          "link": "Çerez Politikası"
         }
       }
     }
