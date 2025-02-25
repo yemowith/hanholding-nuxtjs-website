@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { SpeedInsights } from "@vercel/speed-insights/nuxt";
 const { locale, t } = useI18n();
 const isLoading = ref(true);
 
@@ -48,6 +47,5 @@ useSeoMeta({
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
-    <SpeedInsights />
   </div>
 </template>

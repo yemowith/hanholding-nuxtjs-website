@@ -45,7 +45,6 @@
     "typescript": "5.7.2"
   },
   "dependencies": {
-    "@vercel/speed-insights": "^1.2.0",
     "animate.css": "^4.1.1",
     "wow.js": "^1.2.2",
     "wowjs": "^1.1.3"
