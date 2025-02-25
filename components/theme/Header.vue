@@ -185,7 +185,7 @@ onMounted(() => {
       <div class="nav-right-part nav-right-part-desktop items-center custom-md:inline-flex">
         <a class="navbar-phone !hidden custom-lg:!inline-block" :href="'tel:' + config.phone">
           <span class="icon">
-            <img src="/images/icon/1.png" alt="img" />
+            <img src="/img/icon/1.png" alt="img" />
           </span>
           <span>{{ t("global.needHelp") }}</span>
           <h5>{{ config.phone }}</h5>

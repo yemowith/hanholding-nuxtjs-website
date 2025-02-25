@@ -226,14 +226,32 @@
             "title": "Chemistry",
             "description": "Han Holding innovates in the chemical industry, delivering advanced solutions for pharmaceuticals, cosmetics, and industrial applications."
           },
-          "link": "Chemistry"
+          "link": "Chemistry",
+          "content": {
+            "subtitle": "OUR FOCUS",
+            "title": "Innovating for a Sustainable Future in Chemistry",
+            "description": "At Han Holding, we are committed to developing advanced chemical solutions that drive innovation and sustainability. Our products and technologies are designed to meet the evolving needs of industries while minimizing environmental impact.",
+            "innovation_title": "Chemical Innovation",
+            "innovation_description": "We invest in research and development to create cutting-edge chemical products that enhance industrial processes and improve quality of life. Our focus is on delivering solutions that are both effective and environmentally friendly.",
+            "sustainability_title": "Sustainable Practices",
+            "sustainability_description": "We prioritize sustainability in all our chemical processes, from production to disposal. Our goal is to reduce waste, conserve resources, and promote eco-friendly practices across the industry."
+          }
         },
         "national_international_trade": {
           "meta": {
             "title": "National/International Trade",
             "description": "Han Holding strengthens global trade networks, fostering economic growth through strategic partnerships and innovative trade models."
           },
-          "link": "National/International Trade"
+          "link": "National/International Trade",
+          "content": {
+            "subtitle": "OUR VISION",
+            "title": "Driving Growth Through Global Trade",
+            "description": "At Han Holding, we are dedicated to fostering economic growth by facilitating national and international trade. Our strategic partnerships and innovative trade solutions connect markets, create opportunities, and drive sustainable development.",
+            "global_title": "Global Trade Networks",
+            "global_description": "We leverage our extensive global network to connect businesses and markets worldwide. Our expertise in logistics, customs, and trade regulations ensures seamless cross-border transactions.",
+            "strategy_title": "Strategic Trade Solutions",
+            "strategy_description": "We provide tailored trade solutions that help businesses expand their reach and optimize their operations. Our focus is on creating value for our partners through innovative and efficient trade practices."
+          }
         }
       }
     },

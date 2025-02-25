@@ -41,13 +41,13 @@ const localePath = useLocalePath();
             </div>
             <div class="details">
               <h5>
-                <NuxtLink class="read-more-text" :to="localePath(`services/${service}`)">
+                <NuxtLink class="read-more-text" :to="localePath(`/services/${service}`)">
                   {{ t(`pages.services.pages.${service}.link`) }}
                 </NuxtLink>
               </h5>
               <p>{{ t(`pages.services.pages.${service}.meta.description`) }}</p>
 
-              <NuxtLink class="read-more-text" :to="localePath(`services/${service}`)">
+              <NuxtLink class="read-more-text" :to="localePath(`/services/${service}`)">
                 {{ t(`global.read_more`) }}
               </NuxtLink>
             </div>

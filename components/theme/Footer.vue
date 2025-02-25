@@ -134,7 +134,7 @@ onMounted(() => {
             <NuxtLink
               v-for="legal in ['terms_condition', 'privacy_policy', 'cookies_policy']"
               :key="legal"
-              :to="localePath(`legal/${legal}`)"
+              :to="localePath(`/legal/${legal}`)"
               >{{ t(`pages.legals.pages.${legal}.link`) }}
             </NuxtLink>
           </div>

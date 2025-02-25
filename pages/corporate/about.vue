@@ -43,17 +43,9 @@ useSeoMeta({
             class="about-thumb-inner wow animated fadeInLeft custom-lg:me-[48px] custom-lg:pe-[48px]"
             data-wow-duration="0.8s"
           >
-            <img class="animate-img-1 animate-topImageBounce" src="/images/about/2.png" alt="img" />
-            <img
-              class="animate-img-2 animate-leftImageBounce"
-              src="/images/about/3.png"
-              alt="img"
-            />
-            <img
-              class="animate-img-3 animate-topImageBounce"
-              src="/images/banner/5.svg"
-              alt="img"
-            />
+            <img class="animate-img-1 animate-topImageBounce" src="/img/about/2.png" alt="img" />
+            <img class="animate-img-2 animate-leftImageBounce" src="/img/about/3.png" alt="img" />
+            <img class="animate-img-3 animate-topImageBounce" src="/img/banner/5.svg" alt="img" />
             <img class="main-img" src="/img/about-banner.jpg" alt="img" />
           </div>
         </div>
@@ -72,7 +64,7 @@ useSeoMeta({
               <div class="custom-sm:w-1/2">
                 <div class="single-about-inner">
                   <div class="thumb mb-[16px]">
-                    <img src="/images/icon/2.png" alt="img" />
+                    <img src="/img/icon/2.png" alt="img" />
                   </div>
                   <div class="details">
                     <h5>{{ t("pages.corporate.pages.about.content.commitment_title") }}</h5>
@@ -83,7 +75,7 @@ useSeoMeta({
               <div class="custom-sm:w-1/2">
                 <div class="single-about-inner">
                   <div class="thumb mb-[16px]">
-                    <img src="/images/icon/3.png" alt="img" />
+                    <img src="/img/icon/3.png" alt="img" />
                   </div>
                   <div class="details">
                     <h5>{{ t("pages.corporate.pages.about.content.global_title") }}</h5>

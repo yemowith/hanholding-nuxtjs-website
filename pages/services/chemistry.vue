@@ -2,7 +2,7 @@
 const { t } = useI18n();
 const route = useRoute();
 
-const sevice = "construction";
+const sevice = "chemistry";
 const basekey = `pages.services.pages.${sevice}`;
 
 useHead({
@@ -57,8 +57,8 @@ useSeoMeta({
               <div class="custom-sm:w-1/2">
                 <div class="single-about-inner">
                   <div class="details">
-                    <h5>{{ t(basekey + ".content.quality_title") }}</h5>
-                    <p>{{ t(basekey + ".content.quality_description") }}</p>
+                    <h5>{{ t(basekey + ".content.innovation_title") }}</h5>
+                    <p>{{ t(basekey + ".content.innovation_description") }}</p>
                   </div>
                 </div>
               </div>

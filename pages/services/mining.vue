@@ -69,16 +69,16 @@ useSeoMeta({
               <div class="custom-sm:w-1/2">
                 <div class="single-about-inner">
                   <div class="details">
-                    <h5>{{ t(basekey + ".content.responsible_title") }}</h5>
-                    <p>{{ t(basekey + ".content.responsible_description") }}</p>
+                    <h5>{{ t(basekey + ".content.innovation_title") }}</h5>
+                    <p>{{ t(basekey + ".content.innovation_description") }}</p>
                   </div>
                 </div>
               </div>
               <div class="custom-sm:w-1/2">
                 <div class="single-about-inner">
                   <div class="details">
-                    <h5>{{ t(basekey + ".content.technology_title") }}</h5>
-                    <p>{{ t(basekey + ".content.technology_description") }}</p>
+                    <h5>{{ t(basekey + ".content.sustainability_title") }}</h5>
+                    <p>{{ t(basekey + ".content.sustainability_description") }}</p>
                   </div>
                 </div>
               </div>
