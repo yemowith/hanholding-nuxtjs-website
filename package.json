@@ -27,7 +27,7 @@
     "@nuxtjs/color-mode": "^3.5.2",
     "@nuxtjs/device": "^3.2.4",
     "@nuxtjs/google-fonts": "^3.2.0",
-    "@nuxtjs/i18n": "9.1.1",
+    "@nuxtjs/i18n": "^9.5.3",
     "@nuxtjs/tailwindcss": "^6.12.2",
     "@pinia/nuxt": "^0.9.0",
     "@types/jquery": "^3.5.32",
@@ -46,6 +46,7 @@
   },
   "dependencies": {
     "animate.css": "^4.1.1",
+    "unhead": "^2.0.8",
     "wow.js": "^1.2.2",
     "wowjs": "^1.1.3"
   }

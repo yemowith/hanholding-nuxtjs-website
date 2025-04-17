@@ -107,6 +107,9 @@ export default defineNuxtConfig({
       cookieKey: 'i18n_redirected',
       redirectOn: 'root', // recommended
     },
+    experimental: {
+      jsTsFormatResource: true,
+    },
   },
 
   eslint: {
